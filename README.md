@@ -5,5 +5,5 @@
 
 <bv><bv>
 <p align="center">
-  <img width="300" height="300" src="https://github.com/BL00DYSTREAM/BL00DYSTREAM/blob/998ee2351137416f087a05e2f3cde4d84a3524cd/1753708070531_b25931cc10f0d7075dcf36396108d7ad_copy_1.jpg">
+  <img width="380" height="380" src="https://github.com/BL00DYSTREAM/BL00DYSTREAM/blob/998ee2351137416f087a05e2f3cde4d84a3524cd/1753708070531_b25931cc10f0d7075dcf36396108d7ad_copy_1.jpg">
 </p>
