@@ -5,11 +5,13 @@
 
 
 <div align="center">
-  <span style="color:#632e2e; font-size: 1.2;">
-    <strong><em>
-      If my words are a sin, then call me out. But this is honesty—so why does your gaze feel like thorns?
-    </em></strong>
-  </span>
+  <h3>
+    <font color="#632e2e">
+      <strong><em>
+        If my words are a sin, then call me out. But this is honesty—so why does your gaze feel like thorns?
+      </em></strong>
+    </font>
+  </h3>
 </div>
 
 <br><br>
